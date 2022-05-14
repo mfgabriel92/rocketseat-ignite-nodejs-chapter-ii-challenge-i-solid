@@ -1,5 +1,4 @@
 import { v4 } from "uuid";
-
 import { UsersRepository } from "../../../modules/users/repositories/implementations/UsersRepository";
 import { ShowUserProfileUseCase } from "../../../modules/users/useCases/showUserProfile/ShowUserProfileUseCase";
 

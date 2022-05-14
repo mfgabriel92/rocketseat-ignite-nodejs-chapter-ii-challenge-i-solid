@@ -1,5 +1,4 @@
 import { validate } from "uuid";
-
 import { User } from "../../../modules/users/model/User";
 
 describe("User model", () => {

@@ -1,5 +1,4 @@
 import { Router } from "express";
-
 import { createUserController } from "../modules/users/useCases/createUser";
 import { listAllUsersController } from "../modules/users/useCases/listAllUsers";
 import { showUserProfileController } from "../modules/users/useCases/showUserProfile";

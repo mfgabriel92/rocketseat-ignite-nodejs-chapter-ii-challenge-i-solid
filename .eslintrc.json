@@ -48,8 +48,7 @@
     "import-helpers/order-imports": [
       "warn",
       {
-        // example configuration
-        "newlinesBetween": "always",
+        "newlinesBetween": "never",
         "groups": ["module", "/^@shared/", ["parent", "sibling", "index"]],
         "alphabetize": { "order": "asc", "ignoreCase": true }
       }
